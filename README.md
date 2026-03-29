@@ -18,7 +18,8 @@ Việc bạn cần làm là kiểm soát quá trình gửi lên, xem xét sai so
 
 ## HƯỚNG DẪN TÓM TẮT
  - **Tải tệp về** > **Giải nén vào thư mục phù hợp** > **Bỏ block tệp (nếu có)**
- - **Nhấn vào tệp QLVBDH.xlsm để mở với Excel** > **Nhập đường dẫn trực thuộc khu vực** > **Nhấn đăng nhập** > **Nhập mật khẩu**
+ - **Nhấn vào tệp QLVBDH.xlsm để mở với Excel** > **Cho phép macro chạy**
+ - **Nhập đường dẫn trực thuộc khu vực** > **Nhấn đăng nhập** > **Nhập mật khẩu**
  - **LoadData** (Để tải thông tin danh mục nhập nhanh)
  - Tự tạo danh mục nhập nhanh (nếu cần) 
  - Nhập các mục có dấu * là bắt buộc
