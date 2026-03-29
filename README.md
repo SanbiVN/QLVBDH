@@ -15,18 +15,14 @@ Việc bạn cần làm là kiểm soát quá trình gửi lên, xem xét sai so
 |--------------|-----------|
 | QLVBDH v1.0 | [QLVBDH_v1.0.zip][ptUserAddin] | 
 
-<!-- 
-[Nhấn tải TaxCodeVN Add-in](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v4.2.rar) 
-[![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/TaxCodeVN/total.svg)](https://github.com/SanbiVN/TaxCodeVN/releases/download/tax_code/TaxCodeVN_v4.2.rar) 
- -->
- Ứng dụng chỉ hoạt động trên HĐH Windows 10 trở lên (Không bao gồm máy sử dụng chip ARM). \
-(Add-in được khóa mật khẩu VBA, vì lí do bảo mật khi ứng dụng hoạt động ở máy tính Công ty)
 
 ## HƯỚNG DẪN TÓM TẮT
  - **Tải tệp về** > **Giải nén vào thư mục phù hợp** > **Bỏ block tệp (nếu có)**
  - **Nhấn vào tệp QLVBDH.xlsm để mở với Excel** > **Nhập đường dẫn trực thuộc khu vực** > **Nhấn đăng nhập** > **Nhập mật khẩu**
  - **LoadData** (Để tải thông tin danh mục nhập nhanh)
+ - Tự tạo danh mục nhập nhanh (nếu cần) 
  - Nhập các mục có dấu * là bắt buộc
+
 
 (hình ảnh cho khung công tác nhập liệu đăng ký văn bản đi)
 <img width="960" height="863" alt="qlvbdh1" src="https://github.com/user-attachments/assets/a085864f-35e9-4f70-b2b3-6dfc575c131d" />
