@@ -25,13 +25,9 @@ Việc bạn cần làm là kiểm soát quá trình gửi lên, xem xét sai so
 ## HƯỚNG DẪN TÓM TẮT
  - Dành cho Excel Add-in:
     - **Tải tệp về** > **Giải nén vào thư mục phù hợp** > **Bỏ block tệp (nếu có)**
-    - **Nhấn vào tệp TaxCode.xlam để mở với Excel** > **Thiết lập cho tra cứu gồm cột dữ liệu**
- - Dành cho ứng dụng exe:
-    - Tải về mở ứng dụng > nút Nhập danh sách tra cứu chỉ 1 cột hoặc sao chép cột chỉ có mã tra cứu, trong ứng dụng có nút dán
-    - Thiết lập các mục cần thiết.
-    - Tải xong, có nút mở để mở thư mục chứa tệp lưu.
-
-
+    - **Nhấn vào tệp QLVBDH.xlsm để mở với Excel** > **Nhập đường dẫn trực thuộc khu vực** > **Nhấn đăng nhập** > **Nhập mật khẩu**
+    - **LoadData** (Để tải thông tin danh mục nhập nhanh)
+    - Nhập các mục có dấu * là bắt buộc
 
 (hình ảnh cho khung công tác nhập liệu đăng ký văn bản đi)
 <img width="960" height="863" alt="qlvbdh1" src="https://github.com/user-attachments/assets/a085864f-35e9-4f70-b2b3-6dfc575c131d" />
