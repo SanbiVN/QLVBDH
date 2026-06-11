@@ -3,7 +3,7 @@ Tự động hóa gửi Văn bản đi trong QLVBĐH thuộc hệ thống iOffic
 
 Ứng dụng tự động hóa việc đăng nhập hệ thống iOffice VNPT, thu thập thông tin nhập liệu để nhập nhanh thông tin. Và gửi Đăng ký Văn bản đi lên hệ thống iOffice VNPT cho đơn vị hành chính công. Giúp giảm bớt thời gian tự nhập thao tác tay quá nhiều. 
 Ứng dụng sử dụng công nghệ web nhân chromium để duyệt web. Tự động hoàn toàn việc cập nhật Driver cho trình duyệt.
-Việc bạn cần làm là kiểm soát quá trình gửi lên, xem xét sai soát thông tin đầu vào dừng chương trình để sử lại thông tin. 
+Việc bạn cần làm là kiểm soát quá trình gửi lên, xem xét sai soát thông tin đầu vào dừng chương trình để sửa lại thông tin. 
 
 
 ## TẢI XUỐNG
