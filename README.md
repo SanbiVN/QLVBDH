@@ -11,9 +11,9 @@ Việc bạn cần làm là kiểm soát quá trình gửi lên, xem xét sai so
 [ptUserAddin]: https://github.com/SanbiVN/QLVBDH/releases/download/v1.0/QLVBDH_v1.0.zip
 [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/QLVBDH/total.svg)](https://github.com/SanbiVN/QLVBDH/releases/) 
  
-|  Thông tin   | Tải xuống |
-|--------------|-----------|
-| QLVBDH v1.0 | [QLVBDH_v1.0.zip][ptUserAddin] | 
+|  Tệp   | Thông tin | Tải xuống |
+|--------------|-----------|-----------|
+| QLVBDH v1.0 | Đăng ký văn bản đi | [QLVBDH_v1.0.zip][ptUserAddin] | 
 
 
 ## HƯỚNG DẪN TÓM TẮT
